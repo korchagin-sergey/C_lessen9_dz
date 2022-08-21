@@ -1,0 +1,15 @@
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/bin/Debug/net6.0/zadacha68
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/bin/Debug/net6.0/zadacha68.deps.json
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/bin/Debug/net6.0/zadacha68.runtimeconfig.json
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/bin/Debug/net6.0/zadacha68.dll
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/bin/Debug/net6.0/zadacha68.pdb
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/obj/Debug/net6.0/zadacha68.csproj.AssemblyReference.cache
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/obj/Debug/net6.0/zadacha68.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/obj/Debug/net6.0/zadacha68.AssemblyInfoInputs.cache
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/obj/Debug/net6.0/zadacha68.AssemblyInfo.cs
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/obj/Debug/net6.0/zadacha68.csproj.CoreCompileInputs.cache
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/obj/Debug/net6.0/zadacha68.dll
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/obj/Debug/net6.0/refint/zadacha68.dll
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/obj/Debug/net6.0/zadacha68.pdb
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/obj/Debug/net6.0/zadacha68.genruntimeconfig.cache
+/home/sergey/Рабочий стол/c_dz/C_lessen9_dz/zadacha68/obj/Debug/net6.0/ref/zadacha68.dll
